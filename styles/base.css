@@ -44,12 +44,15 @@ main{
     grid-template-columns: auto 30%;
     grid-gap: 20px;
     margin: 10px;
+    max-width: 850px;
+    
 }
 
 main .card , .card1{
     border: var(--primary-color) solid 1px;
     border-radius: 1%;
     padding: 20px;
+
 }
 
 .me{
