@@ -1,0 +1,13 @@
+:root {
+    --primary-color : #2B2D42;
+    --seconddary-color: #8D99AE;
+    --accent1 : #EDF2F4;
+    --accent2: #EF233C;
+
+    /* font */
+    --header-font : "Roboto Condensed", sans-serif;;
+    --pharagragh : "Poppins", sans-serif;
+}
+
+
+
